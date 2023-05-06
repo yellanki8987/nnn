@@ -11,10 +11,10 @@
     "autoprefixer": "^9.4.6",
     "babel-core": "^6.26.3",
     "babel-eslint": "^7.1.0",
-    "babel-loader": "^6.2.7",
+    "babel-loader": "^9.1.2",
     "babel-preset-latest": "^6.16.0",
     "babel-preset-react": "^6.16.0",
-    "css-loader": "^0.25.0",
+    "css-loader": "^6.7.3",
     "extract-text-webpack-plugin": "^2.1.2",
     "gulp": "~3.9.0",
     "gulp-hogan": "^2.0.0",
@@ -34,7 +34,7 @@
     "svg2png": "3.1.0",
     "tslib": "^1.9.3",
     "typescript": "^3.2.4",
-    "webpack": "^2.5.1"
+    "webpack": "^5.82.0"
   },
   "scripts": {
     "pretest": "tsc lib/*.ts --module commonjs || true",
